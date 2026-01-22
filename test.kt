@@ -1,3 +1,5 @@
 fun main() {
-  println("Hello World!")
+    val name = "Mary"
+    val age = 20
+    println("$name is $age old")
 }
